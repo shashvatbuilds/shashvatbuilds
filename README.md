@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Shashvat Yadav
 
-<!--
-**shashvatbuilds/shashvatbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer (Fresher)  
+🐍 Python | FastAPI | PostgreSQL | SQLAlchemy  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- I build REST APIs using FastAPI
+- I work with PostgreSQL and SQLAlchemy ORM
+- I enjoy backend development and API design
+- Currently improving system design & backend skills
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- JWT Authentication
+- Git & GitHub
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 FastAPI Blog API
+RESTful API built using FastAPI and PostgreSQL.
+
+**Features:**
+- CRUD operations
+- JWT Authentication
+- Pagination & search
+- SQLAlchemy ORM
+
+👉 Repo: https://github.com/shashvatbuilds/fastapi-blog-api
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashvatbuilds&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact
+- Email: yadavshashvat724@gmail.com
+- LinkedIn: (add your link)
