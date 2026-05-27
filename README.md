@@ -36,11 +36,6 @@ RESTful API built using FastAPI and PostgreSQL.
 
 👉 Repo: https://github.com/shashvatbuilds/fastapi-blog-api
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashvatbuilds&show_icons=true&theme=default)
 
 ---
 
